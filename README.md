@@ -1,5 +1,5 @@
 # GDPR-cloud
-In this project, we explore EU legislation and also foreign laws to identify the different impacts on the cloud computing ecosystem. This was accomplished by carrying out a thorough systematic literature review on the following topics: cloud architecture, legislation like GDPR, Standard Contractual Clause
+In this project, we explore EU legislation and also foreign laws to identify the different impacts on the cloud computing ecosystem. This was accomplished by carrying out a thorough systematic literature review on the following topics: cloud architecture, legislation like GDPR, Standard Contractual Clause
 (SCC), EU-US Privacy Shield, CLOUD Act
 and relevant protection techniques for cloud.
 We also look through many discrete recent
