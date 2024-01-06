@@ -14,5 +14,5 @@ that led these cases to contradict with EU legislation. We have also performed t
 a better understanding of the whole scenario.
 Then, we propose a model named Data Confinement Framework and validate if the framework is able to address all those issues of the
 cases providing solutions. With our analysis,
-we have showed that our framework is effective and functional to solve all the mentioned
+we have showed that our framework is effective and functional to solve all the mentioned
 cases.
